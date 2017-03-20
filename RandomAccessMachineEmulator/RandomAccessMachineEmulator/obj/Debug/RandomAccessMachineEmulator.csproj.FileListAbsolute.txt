@@ -1,0 +1,10 @@
+c:\users\m2ilo\documents\visual studio 2015\Projects\RandomAccessMachineEmulator\RandomAccessMachineEmulator\bin\Debug\RandomAccessMachineEmulator.exe.config
+c:\users\m2ilo\documents\visual studio 2015\Projects\RandomAccessMachineEmulator\RandomAccessMachineEmulator\bin\Debug\RandomAccessMachineEmulator.exe
+c:\users\m2ilo\documents\visual studio 2015\Projects\RandomAccessMachineEmulator\RandomAccessMachineEmulator\bin\Debug\RandomAccessMachineEmulator.pdb
+c:\users\m2ilo\documents\visual studio 2015\Projects\RandomAccessMachineEmulator\RandomAccessMachineEmulator\obj\Debug\RandomAccessMachineEmulator.MainForm.resources
+c:\users\m2ilo\documents\visual studio 2015\Projects\RandomAccessMachineEmulator\RandomAccessMachineEmulator\obj\Debug\RandomAccessMachineEmulator.Properties.Resources.resources
+c:\users\m2ilo\documents\visual studio 2015\Projects\RandomAccessMachineEmulator\RandomAccessMachineEmulator\obj\Debug\RandomAccessMachineEmulator.csproj.GenerateResource.Cache
+c:\users\m2ilo\documents\visual studio 2015\Projects\RandomAccessMachineEmulator\RandomAccessMachineEmulator\obj\Debug\RandomAccessMachineEmulator.exe
+c:\users\m2ilo\documents\visual studio 2015\Projects\RandomAccessMachineEmulator\RandomAccessMachineEmulator\obj\Debug\RandomAccessMachineEmulator.pdb
+C:\Users\m2ilo\Documents\Visual Studio 2015\Projects\RandomAccessMachineEmulator\RandomAccessMachineEmulator\obj\Debug\RandomAccessMachineEmulator.LabeledBox.resources
+C:\Users\m2ilo\Documents\Visual Studio 2015\Projects\RandomAccessMachineEmulator\RandomAccessMachineEmulator\obj\Debug\RandomAccessMachineEmulator.csprojResolveAssemblyReference.cache

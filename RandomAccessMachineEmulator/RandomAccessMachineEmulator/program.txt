@@ -1,0 +1,17 @@
+READ 1
+LOAD 1
+JGTZ dalej
+JUMP pisz
+dalej: STORE 2
+SUB =1
+STORE 3
+dop: JZERO pisz
+LOAD 2
+MULT 1
+STORE 2
+LOAD 3
+SUB =1
+STORE 3
+JUMP dop
+pisz: WRITE 2
+HALT
